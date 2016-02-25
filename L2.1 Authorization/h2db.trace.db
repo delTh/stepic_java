@@ -1,0 +1,6 @@
+01-18 01:14:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-187]
+01-18 01:14:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-187]
+01-18 01:14:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-187]
